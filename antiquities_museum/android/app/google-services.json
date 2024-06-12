@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635836201522",
+    "project_id": "antiquities-museum",
+    "storage_bucket": "antiquities-museum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635836201522:android:33f977923e42ddaf2cda2b",
+        "android_client_info": {
+          "package_name": "com.example.antiquities_museum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJumbWicB5mL5lpv_bz-r5CB8nlM6YT7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
